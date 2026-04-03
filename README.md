@@ -142,4 +142,3 @@ This script is provided as‑is, without warranty. Review the contents before ex
 ## License
 
 GNU General Public License v3.0
-``
